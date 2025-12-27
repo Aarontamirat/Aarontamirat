@@ -60,7 +60,7 @@ I'm Aaron Tamirat, a passionate web developer and DevOps enthusiast with a stron
     <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Tamirat-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-phi-ruby-21.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Tamirat-blue?style=for-the-badge&logo=linkedin" alt="Portfolio" />
+    Portfolio
   </a>
 </p>
 
